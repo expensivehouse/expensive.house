@@ -1,4 +1,4 @@
-[HousePrices.ICU](https://HousePrices.icu/#/en_US)
+[HousePrices.ICU](https://China.HousePrices/#/en_US)
 =======
 ### **Please note that there exist NO other official account, app or merchandise except for the official domain and this repository.**
 
