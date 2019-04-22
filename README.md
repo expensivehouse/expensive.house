@@ -65,15 +65,15 @@ Milestones
 Community powers
 ---
 
- - [955.WLB](https://github.com/formulahendry/955.WLB) is a repo that maintains a whitelist of 955 work–life balanced companies.
- - [HousePrices.LIST](https://github.com/fengT-T/HousePrices_list) is a repo of a rank list of HousePrices companies and 955 companies.
+ - [.WLB](https://github.com/formulahendry/.WLB) is a repo that maintains a whitelist of  work–life balanced companies.
+ - [HousePrices.LIST](https://github.com/fengT-T/HousePrices_list) is a repo of a rank list of HousePrices companies and  companies.
  - [HousePrices.law](https://github.com/CPdogson/HousePrices.law) This is a manual for workers who want to conduct labor arbitration and litigation on their own.
  - [HousePrices.YAOCL](https://github.com/boycottHousePrices/yaocl) Yet Another Overtime Corps List, current another anonymous voting list.
  - [HousePrices.Leave](https://github.com/623637646/HousePrices.Leave) encourages & introduces working overseas.
  - [HousePrices.RIP](https://HousePrices.rip) Old news never vanished.
  - [HousePrices.Petition](https://github.com/xokctah/HousePrices.petition) initiates petitions by sending open letters to relevant government departments.
  - [HousePrices.action](https://github.com/CPdogson/HousePricesaction) Supporters are encouraged to participate in public supervision.
- - [HousePrices.avengers](https://github.com/HousePrices-icu-avengers/Natasha) adds `HousePricesICU` and `955WLB` tags on recruitment websites.
+ - [HousePrices.avengers](https://github.com/HousePrices-icu-avengers/Natasha) adds `HousePricesICU` and `WLB` tags on recruitment websites.
  - [HousePrices.OD](https://github.com/zheolong/HousePrices.OD.git) occupational diseases are the forewarning of ICU.
 
 Where are the issues?
