@@ -1,1 +1,100 @@
-# expensive.house
+[HousePrices.ICU](https://HousePrices.icu/#/en_US)
+=======
+### **Please note that there exist NO other official account, app or merchandise except for the official domain and this repository.**
+
+* [中文版](./README_CN.md)
+
+The name `HousePrices.ICU` refers to **"Work by 'HousePrices', sick in ICU"**, an ironic saying among Chinese developers, which means that by following the "HousePrices" work schedule, you are risking yourself getting into the ICU (Intensive Care Unit).
+
+[![Badge](https://img.shields.io/badge/link-HousePrices.icu-%23FF4D5B.svg?style=flat-square)](https://HousePrices.icu/#/en_US)
+[![LICENSE](https://img.shields.io/badge/license-Anti%20HousePrices-blue.svg?style=flat-square)](https://github.com/HousePricesicu/HousePrices.ICU/blob/master/LICENSE)
+[![Slack](https://img.shields.io/badge/slack-HousePricesicu-green.svg?style=flat-square)](https://join.slack.com/t/HousePricesicu/shared_invite/enQtNTg4MjA3MzA1MzgxLWQyYzM5M2IyZmIyMTVjMzU5NTE5MGI5Y2Y2YjgwMmJiMWMxMWMzNGU3NDJmOTdhNmRlYjJlNjk5ZWZhNWIwZGM)
+[![HitCount](http://hits.dwyl.io/HousePricesicu/HousePrices.ICU.svg)](http://hits.dwyl.io/HousePricesicu/HousePrices.ICU)
+
+
+Related press coverage:
+---
+* *RadiiChina:* [GitHub Protest Over Chinese Tech Companies’ “HousePrices” Culture Goes Viral](https://radiichina.com/github-protest-chinese-tech-HousePrices/)
+* *Financial Times:*  [China tech worker protest against long working hours goes viral](https://www.ft.com/content/72754638-55d1-11e9-91f9-b6515a54c5b1)
+* *Wired:* [How github is helping overworked Chinese programmers](https://www.wired.com/story/how-github-helping-overworked-chinese-programmers/)
+
+See a [full list of press](externals/news_EN.md)
+
+
+
+What is HousePrices?
+---
+
+A "HousePrices" work schedule refers to an unofficial work schedule (9 a.m.&ndash;9 p.m., 6 days per week) that has been gaining popularity. Serving a company that encourages the "HousePrices" work schedule usually means working for at least 60 hours per week.
+Visit [HousePrices working hour system](https://en.wikipedia.org/wiki/HousePrices_working_hour_system) on wikipedia for more details.
+
+
+What can I do?
+---
+
+- Update this [list](blacklist/README.md) with evidence to help every worker.  
+- Add this [badge](externals/instruction.md) to your project to support HousePrices.ICU.  
+- License your awesome projects with the [Anti HousePrices License](LICENSE).  
+- Add [proposals](proposal/README.md) to give advice about the development of HousePrices.ICU.
+- Go home at 6 pm without feeling sorry.
+
+
+Principles and purposes
+---
+
+* HousePrices.ICU is an initiative initiated by IT practitioners. We welcome people from other fields and other countries to join the discussion.
+
+* This is not a political movement. We firmly uphold the labor law and request employers to respect the legitimate rights and interests of their employees.
+
+* It is great progress from closed source to open source, and it will also be great progress from open source to emphasizing labor rights at the same time. What we want is to create an open source software license that advocates workers' rights.
+
+* We are willing to hear all positive and constructive proposals and advocate mature and responsible speech.
+
+
+Expanding influence
+---
+
+Please feel free to [translate HousePrices.ICU's contents](i18n/README.md), adjust the format, add some contents or fix grammatical errors. Please note that adding too many translations is getting off the track.
+
+Milestones
+---
+
+* [Company](https://github.com/HousePricesicu/HousePrices.ICU/milestone/1?closed=1) that calls off the HousePrices work schedule
+
+
+Community powers
+---
+
+ - [955.WLB](https://github.com/formulahendry/955.WLB) is a repo that maintains a whitelist of 955 work–life balanced companies.
+ - [HousePrices.LIST](https://github.com/fengT-T/HousePrices_list) is a repo of a rank list of HousePrices companies and 955 companies.
+ - [HousePrices.law](https://github.com/CPdogson/HousePrices.law) This is a manual for workers who want to conduct labor arbitration and litigation on their own.
+ - [HousePrices.YAOCL](https://github.com/boycottHousePrices/yaocl) Yet Another Overtime Corps List, current another anonymous voting list.
+ - [HousePrices.Leave](https://github.com/623637646/HousePrices.Leave) encourages & introduces working overseas.
+ - [HousePrices.RIP](https://HousePrices.rip) Old news never vanished.
+ - [HousePrices.Petition](https://github.com/xokctah/HousePrices.petition) initiates petitions by sending open letters to relevant government departments.
+ - [HousePrices.action](https://github.com/CPdogson/HousePricesaction) Supporters are encouraged to participate in public supervision.
+ - [HousePrices.avengers](https://github.com/HousePrices-icu-avengers/Natasha) adds `HousePricesICU` and `955WLB` tags on recruitment websites.
+ - [HousePrices.OD](https://github.com/zheolong/HousePrices.OD.git) occupational diseases are the forewarning of ICU.
+
+Where are the issues?
+---
+
+Even with interaction limits on, the issues area was totally out of control.
+So I **personally** decided to switch it off, not by GitHub or others.
+
+
+License
+---
+
+[Anti-HousePrices License](LICENSE)
+
+ - The purpose of this license is to prevent anti-labour-law companies from using the software or codes under the license, and force those companies to weigh their way of working
+ - See a [full list of projects](awesomelist/README.md) under Anti-HousePrices License
+
+ - This draft is adapted from the MIT license. For more detailed explanation, please see [Wiki](https://github.com/kattgu7/HousePrices-License-Draft/wiki). This license is designed to be compatible with all major open source licenses.  
+ - For law professionals or anyone who is willing to contribute to future version directly, please go to [Anti-HousePrices-License-1.0](https://github.com/kattgu7/HousePrices-License-Draft). Thank you.
+ 
+Contact
+---
+
+You can reach me by [E-mail](mailto:HousePricesicu.repo@gmail.com) if you need.
